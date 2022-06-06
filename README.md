@@ -3,4 +3,4 @@ Python Taking Input
 
 Input File
 Practice Taking Input
-Video Link:
+Video Link:https://bit.ly/3mhywXf
